@@ -1,0 +1,35 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.venv/
+venv/
+env/
+.env
+
+# Data (too large for git — download separately)
+data/
+*.csv
+
+# Raw sensor data files
+data/**/*.txt
+*.npy
+*.npz
+
+# Outputs / experiments
+outputs/
+
+# Model weights (committed selectively in deploy/weights/)
+*.pth
+*.onnx
+!deploy/weights/*.pth
+!deploy/weights/*.onnx
+
+# IDE
+.vscode/
+.idea/
+*.swp
+
+# OS
+.DS_Store
+Thumbs.db
