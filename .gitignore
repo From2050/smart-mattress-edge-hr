@@ -8,7 +8,7 @@ env/
 .env
 
 # Data (too large for git — download separately)
-data/
+data/ESP32_recored/
 *.csv
 
 # Raw sensor data files
