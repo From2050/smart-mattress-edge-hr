@@ -135,7 +135,7 @@ The dataset contains 33 healthy subjects (age 18–35) across 5 postures:
 `Front`, `Back`, `LeftSide`, `RightSide`, `Leave`.
 
 Raw data is not included in this repository due to size (~270 MB preprocessed).  
-**Download**: [TODO — Zenodo / HuggingFace link after upload]
+**Download**: https://huggingface.co/datasets/m46012002/smart-mattress-bcg
 
 See [docs/data_description.md](docs/data_description.md) for the full collection protocol and file format.
 

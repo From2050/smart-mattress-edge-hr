@@ -135,7 +135,7 @@ reliability = model(x)   # (batch, 32) 每通道可靠度分數
 `Front`（仰臥）、`Back`（俯臥）、`LeftSide`（左側臥）、`RightSide`（右側臥）、`Leave`（離床）。
 
 原始資料因檔案過大（預處理後約 270 MB），不直接放入本倉庫。  
-**下載連結**：[TODO — 上傳後補上 Zenodo / HuggingFace 連結]
+**下載連結**：https://huggingface.co/datasets/m46012002/smart-mattress-bcg
 
 完整收集協議與檔案格式說明見 [docs/data_description_zh.md](docs/data_description_zh.md)。
 
